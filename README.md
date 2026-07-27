@@ -5,6 +5,8 @@
 A knowledge starving Mathematical Engineer student from University of Warwick and Universitat Pompeu Fabra.
 I like understanding things from first principles, from stochastic processes to how an agentic system actually reasons.
 
+"Jack of all trades, master of none, but oftentimes better than master of one."
+
 ## Machine Learning and Data Science
 
 <div align="center">
