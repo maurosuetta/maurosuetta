@@ -2,7 +2,7 @@
 
 ## About Me
 
-A knowledge starving Mathematical Engineer student from University of Warwick and Universitat Pompeu Fabra.
+A knowledge-hungry Mathematical Engineer from the University of Warwick and Universitat Pompeu Fabra.
 I like understanding things from first principles, from stochastic processes to how an agentic system actually reasons.
 
 "Jack of all trades, master of none, but oftentimes better than master of one."
@@ -33,7 +33,7 @@ I like understanding things from first principles, from stochastic processes to 
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![APIs](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Palantir](https://img.shields.io/badge/Palantir-000000?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
