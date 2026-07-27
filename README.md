@@ -51,10 +51,6 @@ I like understanding things from first principles, from stochastic processes to 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</div>
-
-[<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1f2937&height=100&section=footer" width="100%"/>
 
 </div>
