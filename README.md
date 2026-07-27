@@ -8,18 +8,15 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Mathematical+Engineering+%40+UPF;Exchange+%40+University+of+Warwick;Machine+Learning+%26+Agentic+AI;Building+things+from+first+principles&font=Fira+Code&center=true&width=440&height=40&duration=3000&pause=1000&color=2563EB&vCenter=true"/>
-
 </div>
 
 ## About Me
 
 Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, currently on a full-year exchange at the **University of Warwick** Statistics Department. I like understanding things from first principles — from stochastic processes to how an agentic system actually reasons.
 
-## 🧠 Machine Learning
+## Machine Learning and Data Science
 
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,11 +27,9 @@ Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
 </div>
 
-## 🤖 AI & Agentic AI
-
+##  AI & Agentic AI
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,28 +44,14 @@ Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, 
 
 </div>
 
-## 💻 Languages
-
+## Languages
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 </div>
-
 <div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=maurosuetta&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurosuetta&hide_border=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1f2937&height=100&section=footer" width="100%"/>
-
 </div>
