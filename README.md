@@ -52,3 +52,5 @@ I like understanding things from first principles, from stochastic processes to 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Mathematical+Engineering+%40+UPF;Exchange+%40+University+of+Warwick;Machine+Learning+%26+Agentic+AI;Building+things+from+first+principles&font=Fira+Code&center=true&width=440&height=40&duration=3000&pause=1000&color=2563EB&vCenter=true"/>
