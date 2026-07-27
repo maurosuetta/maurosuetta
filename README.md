@@ -1,18 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=180&section=header&text=Mauro%20Paniagua%20Suetta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematical%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://www.linkedin.com/in/mauro-paniagua/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
 </div>
 
 ## About Me
 
-Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, currently on a full-year exchange at the **University of Warwick** Statistics Department. I like understanding things from first principles — from stochastic processes to how an agentic system actually reasons.
+A knowledge starving Mathematical Engineer student from University of Warwick and Universitat Pompeu Fabra.
+I like understanding things from first principles, from stochastic processes to how an agentic system actually reasons.
 
 ## Machine Learning and Data Science
 
