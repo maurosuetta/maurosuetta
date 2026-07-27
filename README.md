@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=180&section=header&text=Mauro%20Paniagua%20Suetta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematical%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/mauro-paniagua/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
@@ -17,6 +17,7 @@ Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, 
 ## Machine Learning and Data Science
 
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -27,9 +28,11 @@ Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 </div>
 
-##  AI & Agentic AI
+## AI & Agentic AI
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,13 +48,14 @@ Mathematical Engineering student (Data Science) at **Pompeu Fabra University**, 
 </div>
 
 ## Languages
+
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-</div>
-<div align="center">
+
 </div>
