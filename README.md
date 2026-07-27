@@ -53,7 +53,7 @@ I like understanding things from first principles, from stochastic processes to 
 
 </div>
 
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1f2937&height=100&section=footer" width="100%"/>
 
